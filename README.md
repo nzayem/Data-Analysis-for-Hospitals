@@ -1,6 +1,6 @@
 # Data-Analysis-for-Hospitals
 
-An introduction to Pandas and Matplotlib to manipulate data from 3 hospitals, clean that data and merged it into one DataSet.
+An introduction to Pandas and Matplotlib to manipulate data from 3 hospitals, clean that data and merge it into one DataSet.
 
 And be able to get some insights and information through plots. To answer questions like these:
 
